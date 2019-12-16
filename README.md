@@ -9,4 +9,4 @@ is_duplicate - set to 1 if question1 and question2 have essentially the same mea
 
 # Model
 
-Used the architecture provided by Bao et. al. in his research paper. Bi-directional LSTM based siamese networ was used to identify the semantic similarity between the two questions. Refer to Bao2018 for research paper
+Used the architecture provided by Bao et al. in his research paper. Attentive siamese network based Bi-directional LSTM was used to identify the semantic similarity between the two questions. Refer to Bao2018 for research paper.
